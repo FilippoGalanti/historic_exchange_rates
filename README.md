@@ -19,7 +19,7 @@ Matplotlib / Requests / Json / Pandas / csv / Datetime
   <li>datetime</li>
 </ul>
 
-It also need a custom dictionary that translates each currency symbol to its description (ie. USD to US Dollar).
+It also need a custom dictionary - currenciesDict.py - that translates each currency ticker to its description (ie. USD to US Dollar).
 
 <b>Output</b>
 
