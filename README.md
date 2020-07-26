@@ -1,7 +1,7 @@
 # Historic Exchange Rates
 
 This small script - Exchange Rate_Historic.py - will allow you to get past daily echange rates between 2 selected currencies for any period of time specified by the user.
-Data is sourced from <a href="http://exchangeratesapi.io/">exchangeratesapi.io</a>.
+Data is sourced from <a href="http://exchangeratesapi.io/">exchangeratesapi.io</a> (<a href="https://github.com/exchangeratesapi/exchangeratesapi">Github Repo</a>).
 
 <img src="https://raw.githubusercontent.com/FilippoGalanti/historic_exchange_rates/master/ExchangeRateEURUSD.png" alt="Output Example">
 
