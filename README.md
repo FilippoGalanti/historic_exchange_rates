@@ -30,3 +30,7 @@ There will be 3 main outputs:
   <li>a graph with the historic trends, 20-day and 50-day moving averages;</li>
   <li>a csv with the data and the daily changes</li>
 </ul> 
+
+<b>Future Updates</b>
+
+I'll continue, from time to time, to work on this small project adding features and improving the code.
