@@ -1,6 +1,6 @@
 # Historic Exchange Rates
 
-This small script will allow you to get past daily echange rates between 2 selected currencies.
+This small script will allow you to get past daily echange rates between 2 selected currencies for any period of time specified by the user.
 Data is sourced from <a href="http://exchangeratesapi.io/">exchangeratesapi.io</a>.
 
 <b>Prerequisites</b>
