@@ -5,6 +5,8 @@ Data is sourced from <a href="http://exchangeratesapi.io/">exchangeratesapi.io</
 
 <img src="https://raw.githubusercontent.com/FilippoGalanti/historic_exchange_rates/master/ExchangeRateEURUSD.png" alt="Output Example">
 
+Currencies Available: CAD, HKD, ISK, PHP, DKK, HUF, CZK, AUD, RON, SEK, IDR, INR, BRL, RUB, HRK, JPY, THB, CHF, SGD, PLN, BGN, TRY, CNY, NOK, NZD, ZAR, USD, MXN, ILS, GBP, KRW, MYR, EUR.
+
 <b>Prerequisites</b>
 
 It needs the following Python libraries:
