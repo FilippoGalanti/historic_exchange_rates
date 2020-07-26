@@ -12,6 +12,12 @@ Currencies Available: CAD, HKD, ISK, PHP, DKK, HUF, CZK, AUD, RON, SEK, IDR, INR
 It needs the following Python libraries:
 
 Matplotlib / Requests / Json / Pandas / csv / Datetime
+ <ul>
+  <li>Matplotlib and Pandas;</li>
+  <li>Requests and Json;</li>
+  <li>csv</li>
+  <li>datetime</li>
+</ul>
 
 It also need a custom dictionary that translates each currency symbol to its description (ie. USD to US Dollar).
 
