@@ -9,6 +9,8 @@ It needs the following Python libraries:
 
 Matplotlib / Requests / Json / Pandas / csv / Datetime
 
+It also need a custom dictionary that translates each currency symbol to its description (ie. USD to US Dollar).
+
 <b>Output</b>
 
 There will be 3 main outputs:
