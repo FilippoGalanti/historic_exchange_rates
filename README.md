@@ -11,7 +11,6 @@ Currencies Available: CAD, HKD, ISK, PHP, DKK, HUF, CZK, AUD, RON, SEK, IDR, INR
 
 It needs the following Python libraries:
 
-Matplotlib / Requests / Json / Pandas / csv / Datetime
  <ul>
   <li>Matplotlib and Pandas;</li>
   <li>Requests and Json;</li>
